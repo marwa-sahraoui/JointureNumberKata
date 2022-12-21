@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/checkstyle-idea.xml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/vcs.xml
